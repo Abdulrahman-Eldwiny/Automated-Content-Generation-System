@@ -16,6 +16,7 @@ Mahmoud Taha Abdelmaboud Behiery
 
 
 Project Overview
+
 Our graduation project focuses on simplifying and enhancing content creation using AI technology. We have developed two core applications:
 
 Content Flow – A sophisticated AI Writing Assistant built on Llama 3.2 3B, enabling users to generate custom content through prompt engineering. The application supports customizable text generation, catering to a variety of writing tasks such as research papers, essays, cover letters, and more.
