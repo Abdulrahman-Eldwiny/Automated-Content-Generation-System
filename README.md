@@ -2,13 +2,12 @@
 DEPI Graduation Project
 
 Team Members:
-
-Mohammed Saieed Abdelnaby
-Gehad Abdallah Mohammed
-Abdelrahman Mamduh Eldwiny
-Ayat Abdelnaby Mohammed Hussain
-Mohammed Saeed Fath-elbab
-Mahmoud Taha Abdelmaboud Behiery
+Abdulrahman Mamduh Eldwiny -
+Mohammed Saieed Abdelnaby -
+Gehad Abdallah Mohammed -
+Ayat Abdelnaby Mohammed Hussain -
+Mohammed Saeed Fath-elbab -
+Mahmoud Taha Abdelmaboud Behiery 
 Project Overview
 Our graduation project focuses on simplifying and enhancing content creation using AI technology. We have developed two core applications:
 
