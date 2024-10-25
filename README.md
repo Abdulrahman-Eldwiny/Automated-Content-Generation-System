@@ -7,11 +7,11 @@
 
 **Team Members:**
 1. Mohammed Saieed Abdelnaby
-2. Gehad Abdallah Mohammed
-3. Abdelrahman Mamduh Eldwiny
-4. Ayat Abdelnaby Mohammed Hussain
-5. Mohammed Saeed Fath-elbab
-6. Mahmoud Taha Abdelmaboud Behiery
+2. Abdelrahman Mamduh Eldwiny
+3. Gehad Abdallah Mohammed
+5. Ayat Abdelnaby Mohammed Hussain
+6. Mohammed Saeed Fath-elbab
+7. Mahmoud Taha Abdelmaboud Behiery
 
 ### Project Overview
 
