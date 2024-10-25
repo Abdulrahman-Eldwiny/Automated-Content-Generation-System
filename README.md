@@ -32,13 +32,23 @@ Content Flow: Utilizes Llama 3.2 3B to assist with natural language generation t
 Inspire AI: Leverages NLP techniques to optimize prompts for image models. It offers improved image quality and accuracy through better prompt formulation.
 
 Key Features
+
 Custom AI Writing Assistant: Adjust tone, style, and structure for personalized content.
+
 AI Prompt Optimizer: Enhances AI-generated images by refining user inputs and prompts.
-Technologies Used
+
+Technologies Used:
+
 AI Writing Assistant: Python, Hugging Face, Llama models.
+
 Prompt Optimizer: NLP frameworks, Llama model, Llava API integrations.
+
 Challenges & Results
+
 Challenges: Ensuring model accuracy and managing computational resources for real-time optimizations.
+
 Results: Faster content creation and improved AI-generated image quality, enhancing user experience in both applications.
+
 Acknowledgments
+
 We would like to thank our supervisor, Engineer Ehab Ibrahim, and the Ministry of Communication for their support throughout this project.
